@@ -100,74 +100,85 @@ philosophy: "Innovation through Intelligence"
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Achievements & Recognition
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60"/>
-<br/><strong>🎓 GATE 2025</strong>
-<br/><sub>Qualified CS & DA</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c328-4f50-978e-de53395f4c58.png" width="60"/>
-<br/><strong>📄 Research Paper</strong>
-<br/><sub>Published in JAST</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="60"/>
-<br/><strong>☁️ Google Cloud</strong>
-<br/><sub>AI & GenAI Badges</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="60"/>
-<br/><strong>🏆 Hackathon</strong>
-<br/><sub>1st Runner-Up Ideathon</sub>
-</td>
-</tr>
-</table>
+
+| 🎓 **GATE 2025** | 📄 **Research Publication** | ☁️ **Google Cloud** | 🏆 **Hackathons** |
+|:---:|:---:|:---:|:---:|
+| Qualified in CS & DA | [Published in JAST](https://www.springer.com/journal/12153) | AI & GenAI Skill Badges | 1st Runner-Up Ideathon |
+| [GATE Official](https://gate2025.iitr.ac.in/) | Journal of Analytical Science | [Google Cloud Skills](https://www.cloudskillsboost.google/) | Team Lead @ IIIT Delhi |
+
 </div>
 
 <!-- EXPERIENCE SECTION -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2571-4d0e-b576-5c4be0589f59.png" width="30" /> Professional Journey
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2571-4d0e-b576-5c4be0589f59.png" width="30" /> Professional Experience
 
 <details>
-<summary><b>🚀 Edysor Edutech Solutions | AI/ML Engineer (Aug 2025 – Present)</b></summary>
+<summary><b>🚀 AI/ML Engineer @ Edysor Edutech Solutions</b> &nbsp;•&nbsp; <code>Aug 2025 – Present</code></summary>
+
 <br/>
 
-| Achievement | Impact |
-|:--|--:|
-| 🤖 Built end-to-end conversational humanoid AI avatar | Custom speech + Real-time A/V sync |
-| ⚡ Replaced third-party SDKs with in-house system | **65% latency reduction** |
-| 💬 Context-aware conversational AI deployment | **95% reduction** in manual queries |
-| 🔊 Advanced noise cancellation pipelines | **99% audio distortion reduction** |
-| 📈 Automated AI video generation pipeline | **1k+ concurrent sessions** |
-| 🎭 Emotion-aware multi-turn dialogue system | Enhanced engagement & accuracy |
+<a href="https://www.edysor.in/"><img src="https://img.shields.io/badge/🔗_Company_Website-000000?style=flat-square"/></a>
+<a href="https://www.linkedin.com/company/edysor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
+**Role:** AI/ML Engineer &nbsp;|&nbsp; **Location:** Udaipur, India
+
+**Key Contributions:**
+- 🤖 Designed & deployed **end-to-end conversational AI avatar** with custom speech processing and real-time A/V synchronization
+- ⚡ Built **in-house avatar system** replacing third-party SDKs → **65% latency reduction**  
+- 💬 Developed **context-aware messaging AI** → **95% reduction** in manual query handling
+- 🔊 Implemented **advanced noise cancellation pipelines** → **99% audio distortion reduction**
+- 📈 Architected **automated AI video generation pipeline** → **1,000+ concurrent sessions**
+- 🎭 Created **emotion-aware multi-turn dialogue system** for enhanced user engagement
+
+**Tech Stack:** `Python` `PyTorch` `FastAPI` `LiveKit` `OpenAI` `AWS`
+
+---
 
 </details>
 
 <details>
-<summary><b>🔬 Consint Solutions | Data Scientist Intern - GenAI (Apr 2025 – Jul 2025)</b></summary>
+<summary><b>🔬 Data Scientist Intern (GenAI) @ Consint Solutions</b> &nbsp;•&nbsp; <code>Apr 2025 – Jul 2025</code></summary>
+
 <br/>
 
-| Achievement | Impact |
-|:--|--:|
-| 📄 VLM pipeline for passport extraction (Max Healthcare) | **30.45% → 98.06% accuracy** |
-| ⚡ Production inference pipelines | **10k+ daily extractions, <1s latency** |
-| 🧠 LoRA-based VLM fine-tuning on healthcare data | **98-99% accuracy** |
-| 📊 Benchmarked GPT-4o, Gemini, Qwen 2.5 | **20% faster evaluation** |
+<a href="https://www.consintsolutions.com/"><img src="https://img.shields.io/badge/🔗_Company_Website-000000?style=flat-square"/></a>
+<a href="https://www.linkedin.com/company/consint-solutions/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
+**Role:** Data Scientist Intern - Generative AI &nbsp;|&nbsp; **Location:** Noida, India
+
+**Key Contributions:**
+- 📄 Built **VLM pipeline for passport entity extraction** (Max Healthcare) → **30.45% → 98.06% accuracy**
+- ⚡ Developed **scalable inference pipelines** → **10k+ daily extractions** with <1s latency
+- 🧠 Implemented **LoRA-based VLM fine-tuning** on healthcare data → **98-99% accuracy**
+- 📊 Established **benchmarks for GPT-4o, Gemini, Qwen 2.5** → **20% faster evaluation**
+- 🤝 Collaborated directly with **Chief AI Officer** on enterprise GenAI solutions
+
+**Tech Stack:** `Python` `OpenAI` `Gemini` `AWS Textract` `LoRA/PEFT` `FastAPI`
+
+---
 
 </details>
 
 <details>
-<summary><b>🎯 Global Infoventures (NVIDIA Partnership) | AI-ML Trainee (Dec 2023 – Jun 2024)</b></summary>
+<summary><b>🎯 AI-ML Trainee @ Global Infoventures (NVIDIA Partnership)</b> &nbsp;•&nbsp; <code>Dec 2023 – Jun 2024</code></summary>
+
 <br/>
 
-| Achievement | Impact |
-|:--|--:|
-| 🎯 Fine-tuned YOLOv7 for PPE & Face Recognition | **95% accuracy** |
-| 🖥️ Deployed on NVIDIA DGX-A100 | Mixed-precision PyTorch |
-| 📸 Image annotation & augmentation | **5500+ images with Roboflow** |
+<a href="https://www.globalinfoventures.com/"><img src="https://img.shields.io/badge/🔗_Company_Website-000000?style=flat-square"/></a>
+<a href="https://www.nvidia.com/"><img src="https://img.shields.io/badge/NVIDIA_Partner-76B900?style=flat-square&logo=nvidia&logoColor=white"/></a>
+
+**Role:** AI-ML Trainee &nbsp;|&nbsp; **Location:** Ghaziabad, India
+
+**Key Contributions:**
+- 🎯 Fine-tuned **YOLOv7** for PPE Detection & Multi-Person Face Recognition → **95% accuracy**
+- 🖥️ Deployed real-time inference on **NVIDIA DGX-A100** with mixed-precision PyTorch
+- 📸 Annotated **5,500+ images** using Roboflow with advanced augmentation techniques
+- 🚀 Built production pipelines using **Flask, FastAPI, Docker & Kubeflow**
+
+**Tech Stack:** `Python` `PyTorch` `YOLOv7` `OpenCV` `Docker` `NVIDIA DGX-A100`
+
+---
 
 </details>
 
@@ -220,15 +231,20 @@ philosophy: "Innovation through Intelligence"
 <!-- FEATURED PROJECTS -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" /> Featured Innovations
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" /> Featured Projects
 
 <div align="center">
 
-[![Ai-Humanoid-Avatar](https://github-readme-stats.vercel.app/api/pin/?username=IshikaJain17&repo=Ai-Humanoid-Avatar&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/IshikaJain17/Ai-Humanoid-Avatar)
-[![contextual-voice-cloning](https://github-readme-stats.vercel.app/api/pin/?username=IshikaJain17&repo=contextual-voice-cloning&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/IshikaJain17/contextual-voice-cloning)
+| Project | Description | Tech Stack |
+|:---:|:---|:---|
+| [🤖 **AI Humanoid Avatar**](https://github.com/IshikaJain17/Ai-Humanoid-Avatar) | Real-time conversational avatar with VAD-based input & smart interrupts | `Next.js` `LiveKit` `TypeScript` |
+| [🎙️ **Voice Cloning**](https://github.com/IshikaJain17/contextual-voice-cloning) | Clone any voice & generate natural conversations with AI semantic synthesis | `Python` `PyTorch` `HuBERT` |
+| [🪣 **PPE Detection**](https://github.com/IshikaJain17/PPE-VIOLATION-DETECTION) | YOLOv7-powered PPE violation detection with Gmail alerts | `Python` `YOLOv7` `Flask` |
+| [👤 **Face Recognition**](https://github.com/IshikaJain17/Multi-Person-Face-Recognition) | Multi-person real-time face recognition with dlib & GPU acceleration | `Python` `dlib` `OpenCV` |
+| [😴 **Drowsiness Detection**](https://github.com/IshikaJain17/Drowsiness-Detection-System) | Driver drowsiness detection using facial landmarks & eye aspect ratio | `Python` `OpenCV` `dlib` |
+| [💬 **Sentiment Analyzer**](https://github.com/IshikaJain17/Sentiment-Analyzer) | ML-based sentiment classification using Naive Bayes & SVM | `Python` `scikit-learn` |
 
-[![PPE-VIOLATION-DETECTION](https://github-readme-stats.vercel.app/api/pin/?username=IshikaJain17&repo=PPE-VIOLATION-DETECTION&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/IshikaJain17/PPE-VIOLATION-DETECTION)
-[![Multi-Person-Face-Recognition](https://github-readme-stats.vercel.app/api/pin/?username=IshikaJain17&repo=Multi-Person-Face-Recognition&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/IshikaJain17/Multi-Person-Face-Recognition)
+<a href="https://github.com/IshikaJain17?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories_%E2%86%92-000000?style=for-the-badge"/></a>
 
 </div>
 
@@ -258,65 +274,68 @@ philosophy: "Innovation through Intelligence"
 
 <div align="center">
 
-| Metric | Achievement | Domain |
-|:---:|:---:|:---:|
-| 🎯 **96%+** | AI Model Accuracy | VLM & Avatar Systems |
-| ⚡ **65%** | Latency Reduction | Real-Time Pipelines |
-| 💰 **80%** | Cost Reduction | Infrastructure Optimization |
-| 🚀 **1000+** | Concurrent Sessions | Scalable Deployment |
-| 📊 **10k+** | Daily Extractions | Document Intelligence |
-| 🔊 **99%** | Noise Reduction | Audio Enhancement |
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                         📊 KEY PERFORMANCE METRICS                         ║
+╠═══════════════════════════════════════════════════════════════════════════╣
+║   🎯 96%+ Model Accuracy    ║   ⚡ 65% Latency Reduction                  ║
+║   💰 80% Cost Savings       ║   🚀 1000+ Concurrent Sessions              ║
+║   📄 10k+ Daily Extractions ║   🔊 99% Noise Reduction                    ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <!-- CURRENT FOCUS -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30" /> Current R&D Focus
+## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30" /> Current Focus
 
 <div align="center">
 
-```
-🔬 ACTIVE RESEARCH & DEVELOPMENT
-├── 🤖 Custom AI Avatar with Open-Source Generative Models
-├── 🎙️ Zero-Shot Voice Cloning with Semantic Speech Synthesis  
-├── 🧠 Multi-Agent LLM Orchestration with RLAIF Optimization
-├── 👁️ Real-Time VLM Inference for Document Intelligence
-└── ⚡ Sub-Second Avatar Response Pipeline Architecture
-```
+| Area | Research Direction | Status |
+|:---:|:---|:---:|
+| 🤖 **AI Avatars** | Custom avatar generation with open-source models | 🔄 Active |
+| 🎙️ **Voice AI** | Zero-shot voice cloning & semantic speech synthesis | 🔄 Active |
+| 🧠 **LLM Systems** | Multi-agent orchestration with RLAIF optimization | 🔄 Active |
+| 👁️ **Vision-Language** | Real-time VLM inference for document intelligence | 🔄 Active |
 
 </div>
 
 <!-- CONNECT SECTION -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" /> Let's Innovate Together
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" /> Let's Connect
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="80"/>
+**Open to collaborating on cutting-edge AI projects and full-time opportunities!**
 
-**Open to collaborating on cutting-edge AI projects!**
+| Platform | Link | Action |
+|:---:|:---:|:---:|
+| 📧 **Email** | [17ishikajain@gmail.com](mailto:17ishikajain@gmail.com) | Direct Contact |
+| 🌐 **Portfolio** | [ishika-jain-portfolio.vercel.app](https://ishika-jain-portfolio.vercel.app/) | View Work |
+| 💼 **LinkedIn** | [/in/ishika-jain-987635238](https://www.linkedin.com/in/ishika-jain-987635238/) | Connect |
+| 💻 **GitHub** | [/IshikaJain17](https://github.com/IshikaJain17) | Follow |
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_17ishikajain@gmail.com-EA4335?style=for-the-badge&logoColor=white)](mailto:17ishikajain@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://ishika-jain-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ishika-jain-987635238/)
-
-<br/>
+<a href="mailto:17ishikajain@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-00D9FF?style=for-the-badge&logoColor=white"/></a>
+<a href="https://ishika-jain-portfolio.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-A855F7?style=for-the-badge&logoColor=white"/></a>
 
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 <div align="center">
   
-### ⚡ *"Innovation distinguishes between a leader and a follower"* ⚡
+**⚡ "Innovation distinguishes between a leader and a follower" - Steve Jobs ⚡**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br/>
 
-**If you find my work valuable, consider giving a ⭐!**
+⭐ **If you find my work valuable, consider giving a star!** ⭐
+
+</div>
 
 </div>
