@@ -6,7 +6,8 @@
 <!-- NEURAL NETWORK ANIMATION -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=80&lines=%F0%9F%A7%A0+Architecting+Intelligence+%7C+Engineering+Innovation" alt="Header" />
+<!-- GRADIENT TITLE -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&customColorList=2,12,30&height=60&section=header&text=🧠%20Architecting%20Intelligence%20|%20Engineering%20Innovation&fontSize=28&fontAlignY=50&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=%E2%9A%A1+Real-Time+AI+Avatars+%26+Digital+Humans;%F0%9F%8E%99%EF%B8%8F+Voice+Cloning+%26+Conversational+AI;%F0%9F%91%81%EF%B8%8F+Vision-Language+Models+%26+VLM+Pipelines;%F0%9F%94%A5+GATE+2025+Qualified+%7C+Published+Researcher;%F0%9F%9A%80+65%25+Latency+Reduction+in+Production+Systems" alt="Typing SVG" />
 
