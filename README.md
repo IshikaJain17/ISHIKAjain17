@@ -65,30 +65,30 @@ philosophy: "Innovation through Intelligence"
 <!-- NEURAL NETWORK DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> AI Architecture I Build
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> AI Systems I Build
 
 <div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────┐
-│                        🧠 REAL-TIME CONVERSATIONAL AI PIPELINE                       │
+│                     🧠 REAL-TIME CONVERSATIONAL AI ARCHITECTURE                      │
 ├─────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                     │
 │   ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐          │
-│   │   🎤    │───▶│   VAD   │───▶│   STT   │───▶│   LLM   │───▶│   TTS   │          │
-│   │  Input  │    │  8ms    │    │  500ms  │    │  455ms  │    │  881ms  │          │
+│   │   🎤    │───▶│  Voice  │───▶│ Speech  │───▶│   AI    │───▶│  Voice  │          │
+│   │  Input  │    │Activity │    │  Recog  │    │ Engine  │    │ Synth   │          │
 │   └─────────┘    └─────────┘    └─────────┘    └─────────┘    └─────────┘          │
 │                                                                     │               │
 │                                                                     ▼               │
 │   ┌─────────────────────────────────────────────────────────────────────────────┐  │
 │   │  🤖 AVATAR RENDERING ENGINE                                                  │  │
-│   │  ├── Audio-Driven Lip Sync (HuBERT + UNet)                                  │  │
-│   │  ├── Facial Landmark Detection & Emotion Mapping                            │  │
-│   │  ├── Real-Time A/V Synchronization                                          │  │
-│   │  └── Multi-Turn Context Memory & Emotion-Aware Responses                    │  │
+│   │  ├── Audio-Driven Animation & Lip Synchronization                           │  │
+│   │  ├── Facial Expression & Emotion Mapping                                    │  │
+│   │  ├── Real-Time Audio-Visual Synchronization                                 │  │
+│   │  └── Context-Aware Multi-Turn Conversation                                  │  │
 │   └─────────────────────────────────────────────────────────────────────────────┘  │
 │                                                                                     │
-│   ⚡ END-TO-END LATENCY: ~1064ms │ 🔊 NOISE REDUCTION: 99% │ 📈 SESSIONS: 1000+    │
+│   ⚡ LOW-LATENCY PIPELINE │ 🔊 NOISE CANCELLATION │ 📈 SCALABLE ARCHITECTURE       │
 └─────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
