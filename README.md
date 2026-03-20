@@ -154,11 +154,10 @@ philosophy: "Automate Intelligence, Amplify Impact"
 
 <div align="center">
 
-| 🎓 **GATE 2025** | 📄 **Research Publication** | ☁️ **Google Cloud** | 🏆 **Hackathons** |
+| 🎓 **GATE 2025** | 🎯 **JEE Qualified** | ☁️ **Google Cloud** | 🏆 **Hackathons** |
 |:---:|:---:|:---:|:---:|
-| Qualified in CS & DA | [Published in JAST](https://www.springer.com/journal/12153) | AI & GenAI Skill Badges | 1st Runner-Up Ideathon |
-| [GATE Official](https://gate2025.iitr.ac.in/) | Journal of Analytical Science | [Google Cloud Skills](https://www.cloudskillsboost.google/) | Team Lead @ IIIT Delhi |
-
+| Qualified in CS & DA | JEE Main & Advanced | AI & GenAI Skill Badges | 1st Runner-Up Ideathon |
+| [GATE Official](https://gate2025.iitr.ac.in/) | Qualified Both Exams | [Google Cloud Skills](https://www.cloudskillsboost.google/) | Team Lead @ IIIT Delhi |
 </div>
 
 <!-- EXPERIENCE SECTION -->
