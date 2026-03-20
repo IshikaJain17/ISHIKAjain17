@@ -1,17 +1,28 @@
 <!-- NEURAL NETWORK HEADER ANIMATION -->
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ishika%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Building%20the%20Future%20of%20Intelligent%20Systems&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:10B981&height=200&section=header&text=Ishika%20Jain&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=30&desc=AI/ML%20Engineer%20%7C%20Agentic%20AI%20Architect%20%7C%20Innovation%20Builder&descAlignY=55&descSize=18"/>
 
-<!-- NEURAL NETWORK ANIMATION -->
+<!-- ANIMATED MATRIX EFFECT -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<!-- GRADIENT TITLE -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&customColorList=2,12,30&height=60&section=header&text=🧠%20Architecting%20Intelligence%20|%20Engineering%20Innovation&fontSize=28&fontAlignY=50&animation=fadeIn"/>
+<!-- SPECIALTY BADGES -->
+<img src="https://img.shields.io/badge/🤖_Agentic_AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🦜_LangChain_Expert-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🕸️_LangGraph-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐝_LangGraph_Swarm-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚙️_AI_Automation-06B6D4?style=for-the-badge"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=%E2%9A%A1+Real-Time+AI+Avatars+%26+Digital+Humans;%F0%9F%8E%99%EF%B8%8F+Voice+Cloning+%26+Conversational+AI;%F0%9F%91%81%EF%B8%8F+Vision-Language+Models+%26+VLM+Pipelines;%F0%9F%94%A5+GATE+2025+Qualified+%7C+Published+Researcher;%F0%9F%9A%80+65%25+Latency+Reduction+in+Production+Systems" alt="Typing SVG" />
+<br/><br/>
+
+<!-- ANIMATED TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%A4%96+Building+Autonomous+AI+Agents+%26+Digital+Humans;%F0%9F%94%97+LangChain+%7C+LangGraph+%7C+Multi-Agent+Systems;%E2%9A%A1+Automating+Intelligence+at+Scale" alt="Typing SVG" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%8E%99%EF%B8%8F+Voice+Cloning+%26+Conversational+AI;%F0%9F%91%81%EF%B8%8F+Vision-Language+Models+%26+VLM+Pipelines;%F0%9F%94%A5+GATE+2025+Qualified+%7C+Published+Researcher;%F0%9F%9A%80+65%25+Latency+Reduction+in+Production+Systems" alt="Typing SVG" />
+
+<br/><br/>
 
 <!-- SOCIAL BADGES WITH GLOW EFFECT -->
 <a href="https://ishika-jain-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white&labelColor=black"/></a>
@@ -22,14 +33,15 @@
 <br/><br/>
 
 <!-- PROFILE STATS BANNER -->
-<img src="https://img.shields.io/badge/Focus-Conversational_AI_&_Digital_Humans-00D9FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Experience-1+_Years_Production_AI-A855F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Agentic_AI_&_Autonomous_Systems-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Expertise-LangChain_|_LangGraph_|_Automation-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Experience-1+_Years_Production_AI-10B981?style=flat-square"/>
 <img src="https://img.shields.io/badge/Location-India_🇮🇳-00D9FF?style=flat-square"/>
-<img src="https://komarev.com/ghpvc/?username=IshikaJain17&color=A855F7&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=IshikaJain17&color=8B5CF6&style=flat-square&label=Profile+Views"/>
 
 </div>
 
-<!-- ABOUT SECTION WITH ANIMATED BORDER -->
+<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
@@ -38,18 +50,21 @@
 
 ```yaml
 name: Ishika Jain
-role: AI/ML Engineer | Innovation Architect
+role: AI/ML Engineer | Agentic AI Architect
 location: Noida, India 🇮🇳
 
 current_mission: |
-  Building intelligent real-time AI systems 
-  that interact naturally like humans
+  Building autonomous AI agents and 
+  intelligent systems that think, 
+  reason, and act independently
 
 core_expertise:
-  - Conversational AI Humanoid Avatars
-  - Real-Time Voice Cloning & Synthesis  
-  - Vision-Language Model Pipelines
-  - Low-Latency ML Infrastructure
+  - 🤖 Agentic AI & Autonomous Systems
+  - 🦜 LangChain & LangGraph Orchestration
+  - ⚙️ AI Workflow Automation
+  - 🎭 Conversational AI & Digital Humans
+  - 🎙️ Real-Time Voice Cloning
+  - 👁️ Vision-Language Models
 
 impact_delivered:
   accuracy_improvement: "96%+"
@@ -57,7 +72,7 @@ impact_delivered:
   latency_optimization: "65%"
   concurrent_sessions: "1000+"
   
-philosophy: "Innovation through Intelligence"
+philosophy: "Automate Intelligence, Amplify Impact"
 ```
 
 <br clear="right"/>
@@ -69,27 +84,65 @@ philosophy: "Innovation through Intelligence"
 
 <div align="center">
 
+<!-- AGENTIC AI ARCHITECTURE -->
 ```
-┌─────────────────────────────────────────────────────────────────────────────────────┐
-│                     🧠 REAL-TIME CONVERSATIONAL AI ARCHITECTURE                      │
-├─────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                     │
-│   ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐          │
-│   │   🎤    │───▶│  Voice  │───▶│ Speech  │───▶│   AI    │───▶│  Voice  │          │
-│   │  Input  │    │Activity │    │  Recog  │    │ Engine  │    │ Synth   │          │
-│   └─────────┘    └─────────┘    └─────────┘    └─────────┘    └─────────┘          │
-│                                                                     │               │
-│                                                                     ▼               │
-│   ┌─────────────────────────────────────────────────────────────────────────────┐  │
-│   │  🤖 AVATAR RENDERING ENGINE                                                  │  │
-│   │  ├── Audio-Driven Animation & Lip Synchronization                           │  │
-│   │  ├── Facial Expression & Emotion Mapping                                    │  │
-│   │  ├── Real-Time Audio-Visual Synchronization                                 │  │
-│   │  └── Context-Aware Multi-Turn Conversation                                  │  │
-│   └─────────────────────────────────────────────────────────────────────────────┘  │
-│                                                                                     │
-│   ⚡ LOW-LATENCY PIPELINE │ 🔊 NOISE CANCELLATION │ 📈 SCALABLE ARCHITECTURE       │
-└─────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────┐
+│                        🤖 AGENTIC AI & AUTOMATION ARCHITECTURE                        │
+├──────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                      │
+│   ┌──────────────────────────────────────────────────────────────────────────────┐   │
+│   │  🦜 LANGCHAIN ORCHESTRATION LAYER                                            │   │
+│   │  ├── Chain-of-Thought Reasoning Engine                                       │   │
+│   │  ├── Tool/Function Calling & External APIs                                   │   │
+│   │  ├── Memory Management (Short & Long Term)                                   │   │
+│   │  └── Retrieval-Augmented Generation (RAG)                                    │   │
+│   └──────────────────────────────────────────────────────────────────────────────┘   │
+│                                        │                                             │
+│                                        ▼                                             │
+│   ┌──────────────────────────────────────────────────────────────────────────────┐   │
+│   │  🕸️ LANGGRAPH WORKFLOW ENGINE                                                │   │
+│   │  ├── Stateful Multi-Agent Orchestration                                      │   │
+│   │  ├── Conditional Branching & Cycles                                          │   │
+│   │  ├── Human-in-the-Loop Integration                                           │   │
+│   │  └── Parallel Agent Execution                                                │   │
+│   └──────────────────────────────────────────────────────────────────────────────┘   │
+│                                        │                                             │
+│                                        ▼                                             │
+│   ┌──────────────────────────────────────────────────────────────────────────────┐   │
+│   │  ⚙️ AUTOMATION & INTEGRATION                                                 │   │
+│   │  ├── Automated Workflow Pipelines                                            │   │
+│   │  ├── Event-Driven Agent Triggers                                             │   │
+│   │  ├── API Gateway & Webhook Management                                        │   │
+│   │  └── Scalable Microservices Architecture                                     │   │
+│   └──────────────────────────────────────────────────────────────────────────────┘   │
+│                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<!-- CONVERSATIONAL AI ARCHITECTURE -->
+```
+┌──────────────────────────────────────────────────────────────────────────────────────┐
+│                     🎭 REAL-TIME CONVERSATIONAL AI ARCHITECTURE                       │
+├──────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                      │
+│   ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐           │
+│   │   🎤    │───▶│  Voice  │───▶│ Speech  │───▶│   AI    │───▶│  Voice  │           │
+│   │  Input  │    │Activity │    │  Recog  │    │ Engine  │    │ Synth   │           │
+│   └─────────┘    └─────────┘    └─────────┘    └─────────┘    └─────────┘           │
+│                                                                     │                │
+│                                                                     ▼                │
+│   ┌──────────────────────────────────────────────────────────────────────────────┐   │
+│   │  🤖 AVATAR RENDERING ENGINE                                                  │   │
+│   │  ├── Audio-Driven Animation & Lip Synchronization                            │   │
+│   │  ├── Facial Expression & Emotion Mapping                                     │   │
+│   │  ├── Real-Time Audio-Visual Synchronization                                  │   │
+│   │  └── Context-Aware Multi-Turn Conversation                                   │   │
+│   └──────────────────────────────────────────────────────────────────────────────┘   │
+│                                                                                      │
+│   ⚡ LOW-LATENCY PIPELINE │ 🔊 NOISE CANCELLATION │ 📈 SCALABLE ARCHITECTURE        │
+└──────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -130,8 +183,9 @@ philosophy: "Innovation through Intelligence"
 - 🔊 Implemented **advanced noise cancellation pipelines** → **99% audio distortion reduction**
 - 📈 Architected **automated AI video generation pipeline** → **1,000+ concurrent sessions**
 - 🎭 Created **emotion-aware multi-turn dialogue system** for enhanced user engagement
+- 🦜 Built **LangChain-powered agentic workflows** for autonomous task completion
 
-**Tech Stack:** `Python` `PyTorch` `FastAPI` `LiveKit` `OpenAI` `AWS`
+**Tech Stack:** `Python` `PyTorch` `FastAPI` `LiveKit` `OpenAI` `LangChain` `AWS`
 
 ---
 
@@ -189,19 +243,34 @@ philosophy: "Innovation through Intelligence"
 
 <div align="center">
 
+### 🤖 Agentic AI & Multi-Agent Systems
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-059669?style=for-the-badge)
+![LangGraph Swarm](https://img.shields.io/badge/🐝_LangGraph_Swarm-F59E0B?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/👥_CrewAI-FF6B6B?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/🔄_AutoGen-412991?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/🔍_LangSmith-FFA500?style=for-the-badge)
+
+### ⚙️ AI Workflow Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-4B5563?style=for-the-badge)
+
+### 🧠 GenAI & LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00D9FF?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA/PEFT-A855F7?style=for-the-badge)
+
 ### 🤖 AI/ML & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🧠 GenAI & LLMs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-00D9FF?style=for-the-badge)
-![LoRA](https://img.shields.io/badge/LoRA/PEFT-A855F7?style=for-the-badge)
 
 ### 🎙️ Voice & Avatar AI
 ![Deepgram](https://img.shields.io/badge/Deepgram_STT-13EF93?style=for-the-badge)
@@ -226,6 +295,13 @@ philosophy: "Innovation through Intelligence"
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_DGX-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white)
 
+### 🗄️ Vector DBs & Data
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00A98F?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 </div>
 
 <!-- FEATURED PROJECTS -->
@@ -244,7 +320,43 @@ philosophy: "Innovation through Intelligence"
 | [😴 **Drowsiness Detection**](https://github.com/IshikaJain17/Drowsiness-Detection-System) | Driver drowsiness detection using facial landmarks & eye aspect ratio | `Python` `OpenCV` `dlib` |
 | [💬 **Sentiment Analyzer**](https://github.com/IshikaJain17/Sentiment-Analyzer) | ML-based sentiment classification using Naive Bayes & SVM | `Python` `scikit-learn` |
 
-<a href="https://github.com/IshikaJain17?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories_%E2%86%92-000000?style=for-the-badge"/></a>
+<a href="https://github.com/IshikaJain17?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories_%E2%86%92-8B5CF6?style=for-the-badge"/></a>
+
+</div>
+
+<!-- AGENTIC AI EXPERTISE -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30" /> Agentic AI Expertise
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                           🤖 AGENTIC AI CAPABILITIES                                  ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║  🦜 LangChain Mastery                    🕸️ LangGraph Orchestration                  ║
+║  ├── Chain Composition & LCEL            ├── Stateful Graph Workflows                ║
+║  ├── Custom Tool/Function Creation       ├── Multi-Agent Coordination                ║
+║  ├── Prompt Engineering & Templates      ├── Conditional Edges & Cycles              ║
+║  ├── Memory (Buffer, Summary, Window)    ├── Human-in-the-Loop Checkpoints           ║
+║  └── RAG with Vector Stores              └── Parallel Agent Execution                ║
+║                                                                                      ║
+║  🐝 LangGraph Swarm                      🔧 Production Workflows                     ║
+║  ├── Decentralized Agent Networks        ├── Microservices Architecture              ║
+║  ├── Dynamic Task Routing                ├── Async Task Processing                   ║
+║  ├── Autonomous Agent Handoffs           ├── Error Handling & Retries                ║
+║  └── Scalable Swarm Intelligence         └── Monitoring & Observability              ║
+║                                                                                      ║
+║  ⚙️ Automation & Integration                                                        ║
+║  ├── Event-Driven Agent Triggers                                                     ║
+║  ├── API Gateway Management                                                          ║
+║  ├── Webhook & Callback Handling                                                     ║
+║  └── Scheduled Job Orchestration                                                     ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -255,15 +367,22 @@ philosophy: "Innovation through Intelligence"
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IshikaJain17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=ffffff&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshikaJain17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IshikaJain17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshikaJain17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff"/>
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IshikaJain17&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=A855F7&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/IshikaJain17)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IshikaJain17&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=06B6D4&fire=10B981&currStreakLabel=8B5CF6)](https://github.com/IshikaJain17)
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshikaJain17&bg_color=0D1117&color=00D9FF&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshikaJain17&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -275,13 +394,16 @@ philosophy: "Innovation through Intelligence"
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                         📊 KEY PERFORMANCE METRICS                         ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║   🎯 96%+ Model Accuracy    ║   ⚡ 65% Latency Reduction                  ║
-║   💰 80% Cost Savings       ║   🚀 1000+ Concurrent Sessions              ║
-║   📄 10k+ Daily Extractions ║   🔊 99% Noise Reduction                    ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║                            📊 KEY PERFORMANCE METRICS                                  ║
+╠═══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                       ║
+║   🎯 96%+ Model Accuracy        ║   ⚡ 65% Latency Reduction                          ║
+║   💰 80% Cost Savings           ║   🚀 1000+ Concurrent Sessions                      ║
+║   📄 10k+ Daily Extractions     ║   🔊 99% Noise Reduction                            ║
+║   🤖 Multi-Agent Orchestration  ║   ⚙️ End-to-End Automation                          ║
+║                                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -295,7 +417,10 @@ philosophy: "Innovation through Intelligence"
 
 | Area | Research Direction | Status |
 |:---:|:---|:---:|
-| 🤖 **AI Avatars** | Custom avatar generation with open-source models | 🔄 Active |
+| 🤖 **Agentic AI** | Autonomous multi-agent systems with LangGraph | 🔥 Active |
+| 🦜 **LangChain** | Advanced RAG & chain orchestration patterns | 🔥 Active |
+| ⚙️ **AI Automation** | End-to-end workflow automation pipelines | 🔥 Active |
+| 🎭 **AI Avatars** | Custom avatar generation with open-source models | 🔄 Active |
 | 🎙️ **Voice AI** | Zero-shot voice cloning & semantic speech synthesis | 🔄 Active |
 | 🧠 **LLM Systems** | Multi-agent orchestration with RLAIF optimization | 🔄 Active |
 | 👁️ **Vision-Language** | Real-time VLM inference for document intelligence | 🔄 Active |
@@ -320,17 +445,21 @@ philosophy: "Innovation through Intelligence"
 
 <br/>
 
-<a href="mailto:17ishikajain@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-00D9FF?style=for-the-badge&logoColor=white"/></a>
-<a href="https://ishika-jain-portfolio.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-A855F7?style=for-the-badge&logoColor=white"/></a>
+<a href="mailto:17ishikajain@gmail.com"><img src="https://img.shields.io/badge/Hire_Me_for_Agentic_AI-8B5CF6?style=for-the-badge&logoColor=white"/></a>
+<a href="https://ishika-jain-portfolio.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-06B6D4?style=for-the-badge&logoColor=white"/></a>
 
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:10B981&height=120&section=footer&animation=twinkling"/>
 
 <div align="center">
   
-**⚡ "Innovation distinguishes between a leader and a follower" - Steve Jobs ⚡**
+**🤖 "The best way to predict the future is to build autonomous agents that create it" 🤖**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Agentic+AI+%7C+LangChain+%7C+LangGraph+%7C+Automation;Building+the+Future+of+Autonomous+Intelligence" alt="Footer Typing" />
 
 <br/>
 
